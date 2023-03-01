@@ -1,7 +1,7 @@
 const monthlyData = require('./data/monthlyData')
 
-// • O menor valor de faturamento ocorrido em um dia do mês;
 
+// • O menor valor de faturamento ocorrido em um dia do mês;
 
 const dayWithSmallerRevenue = (data) => {
   const day = data.reduce((acc, current) => current.valor > 0 && (current.valor < acc.valor) ? current : acc);
@@ -27,6 +27,7 @@ const dayWithHighestRevenue = (data) => {
 console.log(dayWithHighestRevenue(monthlyData));
 // Saída no console
 // O dia 16 foi o dia de funcionamento com maior faturamento no mês, tendo faturado R$ 48.924,24.
+
 
 // • Número de dias no mês em que o valor de faturamento diário foi superior à média mensal.
 
