@@ -7,11 +7,11 @@
 
 Faça o clone deste repositório:
 
-    git clone https://github.com/jvsoarez/test2-fibonacci.git
+    git clone https://github.com/jvsoarez/test3-invoicing.git
     
 Entre no diretório
     
-    cd test2-fibonacci
+    cd test3-invoicing
     
 
 🙏🏽 Obrigado por ver este repositório!
