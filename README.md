@@ -12,3 +12,7 @@ Faça o clone deste repositório:
 Entre no diretório
     
     cd test2-fibonacci
+    
+
+🙏🏽 Obrigado por ver este repositório!
+
